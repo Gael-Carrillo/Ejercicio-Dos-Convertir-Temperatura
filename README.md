@@ -186,4 +186,4 @@ ejercicio2/
 
 ## Prueba en Postman
 
-![Prueba Postman](imagenes/pruebas.png)
+![Prueba Postman](imagenes/prueba.png)
